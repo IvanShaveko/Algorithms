@@ -1,0 +1,10 @@
+D:\Algorithms\Sorting\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+D:\Algorithms\Sorting\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\Algorithms\Sorting\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\Algorithms\Sorting\ConsoleApp\bin\Debug\ArrayExtension.dll
+D:\Algorithms\Sorting\ConsoleApp\bin\Debug\ArrayExtension.pdb
+D:\Algorithms\Sorting\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+D:\Algorithms\Sorting\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Algorithms\Sorting\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+D:\Algorithms\Sorting\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\Algorithms\Sorting\ConsoleApp\obj\Debug\ConsoleApp.pdb

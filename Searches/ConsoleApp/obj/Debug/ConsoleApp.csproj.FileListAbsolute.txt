@@ -1,0 +1,10 @@
+D:\Algorithms\Searches\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+D:\Algorithms\Searches\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\Algorithms\Searches\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\Algorithms\Searches\ConsoleApp\bin\Debug\Search.dll
+D:\Algorithms\Searches\ConsoleApp\bin\Debug\Search.pdb
+D:\Algorithms\Searches\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+D:\Algorithms\Searches\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Algorithms\Searches\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+D:\Algorithms\Searches\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\Algorithms\Searches\ConsoleApp\obj\Debug\ConsoleApp.pdb

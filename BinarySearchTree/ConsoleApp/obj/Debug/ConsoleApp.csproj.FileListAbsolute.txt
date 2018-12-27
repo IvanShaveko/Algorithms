@@ -1,0 +1,10 @@
+D:\Algorithms\BinarySearchTree\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+D:\Algorithms\BinarySearchTree\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\Algorithms\BinarySearchTree\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\Algorithms\BinarySearchTree\ConsoleApp\bin\Debug\BinarySearchTree.dll
+D:\Algorithms\BinarySearchTree\ConsoleApp\bin\Debug\BinarySearchTree.pdb
+D:\Algorithms\BinarySearchTree\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+D:\Algorithms\BinarySearchTree\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Algorithms\BinarySearchTree\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+D:\Algorithms\BinarySearchTree\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\Algorithms\BinarySearchTree\ConsoleApp\obj\Debug\ConsoleApp.pdb

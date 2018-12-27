@@ -1,0 +1,6 @@
+D:\Algorithms\BinarySearchTree\BinarySearchTree\bin\Debug\BinarySearchTree.dll
+D:\Algorithms\BinarySearchTree\BinarySearchTree\bin\Debug\BinarySearchTree.pdb
+D:\Algorithms\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.csprojAssemblyReference.cache
+D:\Algorithms\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.csproj.CoreCompileInputs.cache
+D:\Algorithms\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.dll
+D:\Algorithms\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.pdb

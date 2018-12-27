@@ -1,0 +1,6 @@
+D:\Algorithms\Searches\Search\bin\Debug\Search.dll
+D:\Algorithms\Searches\Search\bin\Debug\Search.pdb
+D:\Algorithms\Searches\Search\obj\Debug\Search.csprojAssemblyReference.cache
+D:\Algorithms\Searches\Search\obj\Debug\Search.csproj.CoreCompileInputs.cache
+D:\Algorithms\Searches\Search\obj\Debug\Search.dll
+D:\Algorithms\Searches\Search\obj\Debug\Search.pdb

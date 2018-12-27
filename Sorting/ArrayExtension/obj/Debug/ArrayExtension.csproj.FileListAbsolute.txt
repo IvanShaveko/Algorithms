@@ -1,0 +1,6 @@
+D:\Algorithms\Sorting\ArrayExtension\bin\Debug\ArrayExtension.dll
+D:\Algorithms\Sorting\ArrayExtension\bin\Debug\ArrayExtension.pdb
+D:\Algorithms\Sorting\ArrayExtension\obj\Debug\ArrayExtension.csprojAssemblyReference.cache
+D:\Algorithms\Sorting\ArrayExtension\obj\Debug\ArrayExtension.csproj.CoreCompileInputs.cache
+D:\Algorithms\Sorting\ArrayExtension\obj\Debug\ArrayExtension.dll
+D:\Algorithms\Sorting\ArrayExtension\obj\Debug\ArrayExtension.pdb
