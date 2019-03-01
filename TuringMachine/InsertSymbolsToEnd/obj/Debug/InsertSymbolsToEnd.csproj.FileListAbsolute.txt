@@ -1,0 +1,6 @@
+D:\Algorithms\TuringMachine\InsertSymbolsToEnd\bin\Debug\InsertSymbolsToEnd.dll
+D:\Algorithms\TuringMachine\InsertSymbolsToEnd\bin\Debug\InsertSymbolsToEnd.pdb
+D:\Algorithms\TuringMachine\InsertSymbolsToEnd\obj\Debug\InsertSymbolsToEnd.csprojAssemblyReference.cache
+D:\Algorithms\TuringMachine\InsertSymbolsToEnd\obj\Debug\InsertSymbolsToEnd.csproj.CoreCompileInputs.cache
+D:\Algorithms\TuringMachine\InsertSymbolsToEnd\obj\Debug\InsertSymbolsToEnd.dll
+D:\Algorithms\TuringMachine\InsertSymbolsToEnd\obj\Debug\InsertSymbolsToEnd.pdb
