@@ -23,6 +23,9 @@ namespace ConsoleApp1
 
             str = "bbbbabababa";
             Console.WriteLine(Insert.InsertToEnd(str) + '\n');
+
+            str = "aaaaaaaaaa";
+            Console.WriteLine(Insert.InsertToEnd(str) + '\n');
         }
     }
 }

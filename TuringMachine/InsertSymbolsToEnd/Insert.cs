@@ -27,14 +27,13 @@ namespace InsertSymbolsToEnd
             {
                 if (charArray[i] == 'a')
                 {
-                    while (charArray[j] != default(char))
+                    while (charArray[i] != default(char))
                     {
-                        j++;
+                        i++;
                     }
 
-                    charArray[j] = '|';
-                    j = state[j - i - 1];
-                    i++;
+                    charArray[i] = '|';
+                    i = state[j++];
                 }
                 else
                 {
@@ -47,10 +46,9 @@ namespace InsertSymbolsToEnd
 
         private static void SetStates(int[] array)
         {
-            var j = 0;
-            for (var i = array.Length - 1; i >=0; i--)
+            for (var i = 0; i <array.Length; i++)
             {
-                array[i] = ++j;
+                array[i] = i+1;
             }
         }
     }
