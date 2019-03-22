@@ -1,0 +1,6 @@
+D:\TuringMachine\TuringMachine\bin\Debug\TuringMachine.dll
+D:\TuringMachine\TuringMachine\bin\Debug\TuringMachine.pdb
+D:\TuringMachine\TuringMachine\obj\Debug\TuringMachine.csprojAssemblyReference.cache
+D:\TuringMachine\TuringMachine\obj\Debug\TuringMachine.csproj.CoreCompileInputs.cache
+D:\TuringMachine\TuringMachine\obj\Debug\TuringMachine.dll
+D:\TuringMachine\TuringMachine\obj\Debug\TuringMachine.pdb

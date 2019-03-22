@@ -1,0 +1,10 @@
+D:\TuringMachine\Program\bin\Debug\Program.exe.config
+D:\TuringMachine\Program\bin\Debug\Program.exe
+D:\TuringMachine\Program\bin\Debug\Program.pdb
+D:\TuringMachine\Program\bin\Debug\TuringMachine.dll
+D:\TuringMachine\Program\bin\Debug\TuringMachine.pdb
+D:\TuringMachine\Program\obj\Debug\Program.csprojAssemblyReference.cache
+D:\TuringMachine\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+D:\TuringMachine\Program\obj\Debug\Program.csproj.CopyComplete
+D:\TuringMachine\Program\obj\Debug\Program.exe
+D:\TuringMachine\Program\obj\Debug\Program.pdb

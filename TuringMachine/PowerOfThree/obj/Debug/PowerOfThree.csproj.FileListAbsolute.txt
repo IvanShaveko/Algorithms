@@ -1,6 +1,0 @@
-D:\Algorithms\TuringMachine\PowerOfThree\bin\Debug\PowerOfThree.dll
-D:\Algorithms\TuringMachine\PowerOfThree\bin\Debug\PowerOfThree.pdb
-D:\Algorithms\TuringMachine\PowerOfThree\obj\Debug\PowerOfThree.csprojAssemblyReference.cache
-D:\Algorithms\TuringMachine\PowerOfThree\obj\Debug\PowerOfThree.csproj.CoreCompileInputs.cache
-D:\Algorithms\TuringMachine\PowerOfThree\obj\Debug\PowerOfThree.dll
-D:\Algorithms\TuringMachine\PowerOfThree\obj\Debug\PowerOfThree.pdb
